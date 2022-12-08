@@ -12,9 +12,6 @@
 - Make Order with COD / Online Payment
 - View Orders History
 
-## 🚀 LIVE APP
-
-https://flipkart-web.vercel.app/
 
 ## 🖥️ Tech Stack
 
