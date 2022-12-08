@@ -35,7 +35,7 @@ https://flipkart-web.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/dhavalnpatel/flipkart-clone.git
+  git clone https://github.com/vatsalhirpara18/flipkart-clone.git
 ```
 
 Go to the project directory
